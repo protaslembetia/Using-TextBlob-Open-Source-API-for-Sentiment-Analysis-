@@ -1,0 +1,14 @@
+Text,Sentiment
+I love soccer!,Positive
+We lost our soccer game last night!,Negative
+I am excited to have pizza tonight!,Positive
+Let's gooo!,Neutral
+I'm not looking forward to running today,Neutral
+"I just finished watching a movie that left me feeling incredibly moved. The storyline was captivating, the acting was superb, and the ending was so satisfying. It's definitely one of the best films I've seen in a while.",Positive
+"Today's weather is absolutely dreadful. It's been raining non-stop, and everything feels so gloomy. I really hope the sun comes out soon; this dreariness is putting a damper on my mood.",Negative
+Enjoyed a relaxing day at the beach. Feeling rejuvenated.,Positive
+"I received the most thoughtful gift from a friend today. It was completely unexpected, and it really brightened my day. It's moments like these that remind me how fortunate I am to have such wonderful people in my life.",Positive
+Rain ruined our picnic plans. Feeling disappointed.,Negative
+"This movie was absolutely fantastic! I laughed so hard I cried, and the acting was superb.",Positive
+The weather is nice today. It's not too hot and not too cold.,Positive
+This product is the worst! It broke after just one use.,Negative
